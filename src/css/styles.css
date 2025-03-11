@@ -5,6 +5,15 @@
   padding-left: 15px;
   padding-right: 15px;
 }
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-list {
+  display: flex;
+  gap: 55px;
+}
 .hero {
   padding-top: 70px;
   padding-bottom: 65px;
